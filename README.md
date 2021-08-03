@@ -1,3 +1,3 @@
 # Kokoa Clone 2021 Update
 
-CSS good!
+This is first time I clone code
